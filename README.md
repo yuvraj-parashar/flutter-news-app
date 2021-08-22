@@ -1,6 +1,6 @@
 # flutternews
 
-## Default News, Category Based News, using REST API, for news there is a in built webview in app.
+## Default News, Category Based News, using REST API, to read full news there is a in built webview in app.
 
 ![Screenshot_2021_08_22_14_05_19_84_fa112139e94a7e3978faef28fe468a75](https://user-images.githubusercontent.com/66880935/130348081-f3f78ea5-8264-4512-8ca6-fa354a2b1a35.jpg)
 ![Screenshot_2021_08_22_14_05_28_66_fa112139e94a7e3978faef28fe468a75](https://user-images.githubusercontent.com/66880935/130348091-e3b01228-b8c1-4f62-a251-2dccfa3b536a.jpg)
